@@ -1,0 +1,2 @@
+This is a modified version of the linked list program the professor gave us. Some methods such as free remain mostly unchanged.
+The main purpose of this program was to incorporate a binary search tree to sort out string values (names of employees).
